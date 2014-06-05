@@ -1,4 +1,4 @@
-zabbix-repository
+zabbix-repository [![Build Status](https://travis-ci.org/xcezx/ansible-zabbix-repository.svg)](https://travis-ci.org/xcezx/ansible-zabbix-repository)
 ========
 
 Install zabbix-release
